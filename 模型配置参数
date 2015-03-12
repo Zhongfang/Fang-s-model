@@ -1,7 +1,16 @@
-P0: 40 Token per h        6 h/d     
-P1: 160 Token per h       4 h/d       
-P2: 320 Token per h       4 h/d      
+个人信息: 钟芳（Fang ZHONG），女，北京，设计师/研究员，北京人禾设计咨询事务所（筹）/西南大学中国乡村建设学院
 
-1Yuan=1 Token
+raw以外的资源池列表
+   P1 资源池
+   P2 资源池
+   
+各资源池各项资源初始值：
+    P0: 40 Token per h        6 h/d     
+    P1: 160 Token per h       4 h/d       
+    P2: 320 Token per h       4 h/d      
+
+    1Yuan=1 Token
 
 initiate on 03-03-2015, modified on 12-03-2015
+
+试运行期为2015年3月3日至2015年9月3日，试运行期间每周核算并调整不同资源池中资产定价。
